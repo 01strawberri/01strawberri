@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/maihan-dev/maihan-dev/assets/logo.png" width="120" />
   <h1>👋 Hi, I'm <span style="color:#00c9a7">Nguyễn Hà Mai Hân</span></h1>
   <p>
     💻 <b>Back-End Developer | FPT University HCM</b><br/>
@@ -84,13 +83,6 @@
 📍 Thu Duc, Ho Chi Minh City  
 📧 **hanmi200485@gmail.com**  
 📞 **0937 532 958**  
-
----
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=maihan-dev&show_icons=true&theme=radical"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maihan-dev&layout=compact&theme=radical"/>
-</p>
 
 ---
 
